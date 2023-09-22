@@ -1,0 +1,1 @@
+** If you want to some-what preview your changes to the material just put another picture in there in place of the video rendure texture. Then when done put the video render texutre back **

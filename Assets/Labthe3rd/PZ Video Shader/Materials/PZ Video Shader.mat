@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PZ Video Shader
+  m_Shader: {fileID: 4800000, guid: 02c5f84d05b293c49be2a1576f776917, type: 3}
+  m_ShaderKeywords: _APPLYGAMMA_ON _EMBOSS_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 8400000, guid: 20902988321094b48988f24113e50bea, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ApplyGamma: 1
+    - _EmissiveGammaExponential: 2.2
+    - _GBPIxelateX: 160
+    - _GBPIxelateY: 144
+    - _GameboyFX: 0
+    - _Grayscale: 0
+    - _InvertColors: 0
+    - _InvertMultiplier: 1
+    - _OutlineEffect: 0
+    - _Pixelate: 0
+    - _PixelsX: 250
+    - _Posterize: 0
+    - _PosterizeAmount: 5
+    - _TwoChannel: 0
+    - _TwoChannelThreshhold: 0.1
+    - __dirty: 0
+    - _pixelsY: 250
+    m_Colors:
+    - _GameboyColor_DarkGreen: {r: 0.1882351, g: 0.38431352, b: 0.1882351, a: 1}
+    - _GameboyColor_DarkestGreen: {r: 0.05882339, g: 0.21960762, b: 0.05882339, a: 1}
+    - _GameboyColor_LightGreen: {r: 0.54509795, g: 0.6745098, b: 0.05882339, a: 1}
+    - _GameboyColor_LightestGreen: {r: 0.6078432, g: 0.737255, b: 0.05882339, a: 1}
+    - _TwoChannelDarkerColor: {r: 0, g: 0, b: 0, a: 0}
+    - _TwoChannleLighterColor: {r: 1, g: 1, b: 1, a: 1}
