@@ -14,3 +14,5 @@ If you like this shader please consider donating to help me keep creating free p
 If you have any questions, find any bugs, etc let me know at The Party Zone discord! I am happy to take suggestions for future effects too!
 
 Check out the gameboy effect in action here!
+
+![Comparison Image](/Images/PZ%20Video%20Shader%20Comparison.png)
